@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SCP_Data_Base/1.0.0": {
+        "runtime": {
+          "SCP_Data_Base.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SCP_Data_Base/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

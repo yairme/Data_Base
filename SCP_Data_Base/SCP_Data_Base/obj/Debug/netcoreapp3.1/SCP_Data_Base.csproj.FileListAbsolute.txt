@@ -1,0 +1,14 @@
+C:\Users\Gebruiker\OneDrive\Desktop\Shool work\Year_2\Periode_2\Data_base\SCP_Data_Base\SCP_Data_Base\bin\Debug\netcoreapp3.1\SCP_Data_Base.exe
+C:\Users\Gebruiker\OneDrive\Desktop\Shool work\Year_2\Periode_2\Data_base\SCP_Data_Base\SCP_Data_Base\bin\Debug\netcoreapp3.1\SCP_Data_Base.deps.json
+C:\Users\Gebruiker\OneDrive\Desktop\Shool work\Year_2\Periode_2\Data_base\SCP_Data_Base\SCP_Data_Base\bin\Debug\netcoreapp3.1\SCP_Data_Base.runtimeconfig.json
+C:\Users\Gebruiker\OneDrive\Desktop\Shool work\Year_2\Periode_2\Data_base\SCP_Data_Base\SCP_Data_Base\bin\Debug\netcoreapp3.1\SCP_Data_Base.runtimeconfig.dev.json
+C:\Users\Gebruiker\OneDrive\Desktop\Shool work\Year_2\Periode_2\Data_base\SCP_Data_Base\SCP_Data_Base\bin\Debug\netcoreapp3.1\SCP_Data_Base.dll
+C:\Users\Gebruiker\OneDrive\Desktop\Shool work\Year_2\Periode_2\Data_base\SCP_Data_Base\SCP_Data_Base\bin\Debug\netcoreapp3.1\SCP_Data_Base.pdb
+C:\Users\Gebruiker\OneDrive\Desktop\Shool work\Year_2\Periode_2\Data_base\SCP_Data_Base\SCP_Data_Base\obj\Debug\netcoreapp3.1\SCP_Data_Base.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gebruiker\OneDrive\Desktop\Shool work\Year_2\Periode_2\Data_base\SCP_Data_Base\SCP_Data_Base\obj\Debug\netcoreapp3.1\SCP_Data_Base.AssemblyInfoInputs.cache
+C:\Users\Gebruiker\OneDrive\Desktop\Shool work\Year_2\Periode_2\Data_base\SCP_Data_Base\SCP_Data_Base\obj\Debug\netcoreapp3.1\SCP_Data_Base.AssemblyInfo.cs
+C:\Users\Gebruiker\OneDrive\Desktop\Shool work\Year_2\Periode_2\Data_base\SCP_Data_Base\SCP_Data_Base\obj\Debug\netcoreapp3.1\SCP_Data_Base.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\OneDrive\Desktop\Shool work\Year_2\Periode_2\Data_base\SCP_Data_Base\SCP_Data_Base\obj\Debug\netcoreapp3.1\SCP_Data_Base.dll
+C:\Users\Gebruiker\OneDrive\Desktop\Shool work\Year_2\Periode_2\Data_base\SCP_Data_Base\SCP_Data_Base\obj\Debug\netcoreapp3.1\SCP_Data_Base.pdb
+C:\Users\Gebruiker\OneDrive\Desktop\Shool work\Year_2\Periode_2\Data_base\SCP_Data_Base\SCP_Data_Base\obj\Debug\netcoreapp3.1\SCP_Data_Base.genruntimeconfig.cache
+C:\Users\Gebruiker\OneDrive\Desktop\Shool work\Year_2\Periode_2\Data_base\SCP_Data_Base\SCP_Data_Base\obj\Debug\netcoreapp3.1\SCP_Data_Base.csproj.AssemblyReference.cache
