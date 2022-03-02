@@ -8,13 +8,13 @@
 
 
 ###### Image for SCP-035: 
-![This is an image] (/SCP Images/SCP035NewSmile.jpg)
+![This is an image] (../SCP Images/SCP035NewSmile.jpg)
 
 ###### Image for SCP-049: 
-![This is an image] (/SCP Images/Latest-19.jpg)
+![This is an image] (../SCP Images/Latest-19.jpg)
 
 ###### Image for SCP-069: 
-![This is an image] (/SCP Images/c9mdlsdvm6041.jpg)
+![This is an image] (../SCP Images/c9mdlsdvm6041.jpg)
 
 
 #### Disclaimer:
